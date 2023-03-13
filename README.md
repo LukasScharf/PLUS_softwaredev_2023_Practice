@@ -1,2 +1,4 @@
-# PLUS_softwaredev_2023_Lu
-Repository for the course software developement
+# PLUS_softwaredev_2023_Practice
+Repository for the course "Software developement" at Z_GIS
+
+
