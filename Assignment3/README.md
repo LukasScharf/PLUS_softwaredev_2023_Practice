@@ -8,5 +8,5 @@ Steps that were done:
 ![Final map](map.png)
 
 Referencess used:
-https://www.python-graph-gallery.com/312-add-markers-on-folium-map
-https://python-visualization.github.io/folium/modules.html
+- https://www.python-graph-gallery.com/312-add-markers-on-folium-map
+- https://python-visualization.github.io/folium/modules.html
