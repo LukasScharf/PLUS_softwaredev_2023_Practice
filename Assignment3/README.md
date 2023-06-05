@@ -6,3 +6,7 @@ Steps that were done:
 3. adding another basemap layer
 
 ![Final map](map.png)
+
+Referencess used:
+https://www.python-graph-gallery.com/312-add-markers-on-folium-map
+https://python-visualization.github.io/folium/modules.html
