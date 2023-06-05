@@ -1,4 +1,4 @@
-#Objectives
+# Objectives
 In this small notebook the focus is to check out basic functions and visualization options of the package <b>folium</b>. 
 Steps that were done:
 1. Creating a base map with a certain zoom level and location
