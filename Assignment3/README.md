@@ -5,4 +5,4 @@ Steps that were done:
 2. adding some accustomed markers
 3. adding another basemap layer
 
-![Final map](map.jpg)
+![Final map](map.png)
